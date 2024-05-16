@@ -1,0 +1,19 @@
+{
+  "variants" : {
+    "facing=north" : {
+      "model": "examplemod:block/gem_polishing_station"
+    },
+    "facing=south": {
+      "model": "examplemod:block/gem_polishing_station",
+      "y": 180
+    },
+    "facing=east" : {
+      "model": "examplemod:block/gem_polishing_station",
+      "y" : 90
+    },
+    "facing=west" : {
+      "model": "examplemod:block/gem_polishing_station",
+      "y" : 270
+    }
+  }
+}
